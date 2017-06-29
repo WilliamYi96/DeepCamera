@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DeepCamera</string>
+    <string name="toggle_camera">切换相机</string>
+    <string name="detect_object">探测物体</string>
+
+    <string name="info_Chinese">    易凯，西安交通大学2015级软件工程专业本科生。
+        现于智能网络与网络安全教育部重点实验室，西安交通大学软件学院创新实验室进行科研与工程训练。
+        目前作为负责人完成国家级大学生创新创业训练课题。
+        主要研究兴趣为深度学习，机器视觉以及增强学习。 </string>
+    <string name="slogan_Chinese1">  为天地立心，为生灵立命； </string>
+    <string name="slogan_Chinese2">  为往圣继绝学，为万世开太平! </string>
+    <string name="info_English">  William Yi, who majors in software engineering in Xi\'an Jiaotong University.
+        He is interested in deep learning, computer vision and reinforcement learning.
+        And he is the intent of Key Laboratory of Intelligent Network and Network Security, Ministry of Education in Xi\'an Jiaotong University.
+        The member of Innovative laboratory in software institute as well.
+        Besides, He is conducting a national student project.</string>
+    <string name="slogan_en1">Pursue what you what. </string>
+    <string name="slogan_en2">Do only what you can do.</string>
+
+</resources>

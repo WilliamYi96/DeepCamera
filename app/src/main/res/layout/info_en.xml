@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/info_en"
+    android:background="@drawable/bg4">
+
+    <LinearLayout
+        android:layout_marginTop="16sp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/back_camera"
+            android:layout_marginLeft="16sp"
+            android:background="@drawable/back2"
+            android:layout_width="32sp"
+            android:layout_height="32sp" />
+        <TextView
+            android:layout_marginBottom="16sp"
+            android:layout_marginTop="8sp"
+            android:layout_marginLeft="45sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Personal Info"
+            android:textAlignment="center"
+            android:textSize="32sp"
+            android:textColor="@android:color/holo_orange_light" />
+        <Button
+            android:id="@+id/change_to_Chinese"
+            android:layout_marginRight="16sp"
+            android:layout_width="wrap_content"
+            android:layout_height="32sp"
+            android:background="#bfe"
+            android:layout_marginLeft="45sp"
+            android:text="中文"/>
+    </LinearLayout>
+
+    <TextView
+        android:layout_marginTop="24sp"
+        android:layout_marginLeft="12sp"
+        android:layout_marginRight="12sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/info_English"
+        android:layout_marginBottom="30sp"
+        android:textSize="16sp"/>
+    <TextView
+        android:layout_marginLeft="32sp"
+        android:layout_marginRight="12sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="@string/slogan_en1"/>
+    <TextView
+        android:layout_marginLeft="32sp"
+        android:layout_marginRight="12sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="@string/slogan_en2"/>
+    <LinearLayout
+        android:layout_marginLeft="16sp"
+        android:layout_marginRight="16sp"
+        android:layout_marginTop="40sp"
+        android:background="@android:color/holo_blue_dark"
+        android:orientation="horizontal"
+        android:layout_marginBottom="10sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="48sp"
+            android:layout_height="48sp"
+            android:src="@drawable/github" />
+
+        <Button
+            android:id="@+id/github_location"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/holo_green_light"
+            android:text="Github" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginLeft="16sp"
+        android:layout_marginRight="16sp"
+        android:background="@android:color/holo_blue_dark"
+        android:orientation="horizontal"
+        android:layout_marginBottom="10sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="48sp"
+            android:layout_height="48sp"
+            android:src="@drawable/mproject" />
+
+        <Button
+            android:id="@+id/project_location"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/holo_green_light"
+            android:text="Project" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginLeft="16sp"
+        android:layout_marginRight="16sp"
+        android:background="@android:color/holo_blue_dark"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="48sp"
+            android:layout_height="48sp"
+            android:src="@drawable/mweibo" />
+        <Button
+            android:background="@android:color/holo_green_light"
+            android:id="@+id/weibo.location"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Weibo"/>
+    </LinearLayout>
+
+</LinearLayout>

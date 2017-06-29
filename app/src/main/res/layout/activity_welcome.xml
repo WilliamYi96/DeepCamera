@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_welcome"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/welcome"
+    android:orientation="vertical"
+    tools:context="com.deepcamera.williamyi.deepcamera.WelcomeActivity">
+
+    <TextView
+        android:text="DeepCamera"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="45dp"
+        android:layout_marginTop="100dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/textView1" />
+    <TextView
+        android:text="Android with Tensorflow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="35dp"
+        android:layout_marginTop="10dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/textView2" />
+
+    <TextView
+        android:id="@+id/self_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Created by Kai Yi"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:layout_marginTop="30sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email:williamyi96@gmail.com"
+        android:layout_marginTop="18sp"
+        android:textSize="20sp"
+        android:textAlignment="center"/>
+</LinearLayout>
