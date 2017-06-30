@@ -24,7 +24,7 @@ TensorFlow是google于2015年推出的机器学习平台，一经推出，即引
 # 模块展示
 <img src="./DeepCamerathesis/img/欢迎界面.png" width="50%" height="50%">
 
-img src="./DeepCamerathesis/img/主界面.png" width="50%" height="50%"> 
+<img src="./DeepCamerathesis/img/主界面.png" width="50%" height="50%"> 
 
 ![](./DeepCamerathesis/img/PersonalInfo.png)  
 
