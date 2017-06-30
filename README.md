@@ -27,25 +27,32 @@ TensorFlow是google于2015年推出的机器学习平台，一经推出，即引
   <img src="./DeepCamerathesis/img/欢迎界面.png" width="40%" height="40%">
   <img src="./DeepCamerathesis/img/主界面.png" width="40%" height="40%"> 
 </p>
-<img src=https://raw.githubusercontent.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample/master/assets/sample_combined.png >
+<img 
 <br>
 <br>
 
+<p align="center">
+  <img src="./DeepCamerathesis/img/PersonalInfo.png" width="40%" height="40%">
+  <img src="./DeepCamerathesis/img/个人简历界面.png" width="40%" height="40%"> 
+</p>
+<img 
+<br>
+<br>
 
-
-
-![](./DeepCamerathesis/img/PersonalInfo.png)  
-
-![](./DeepCamerathesis/img/个人简历界面.png)
-
-![](./Deep)
 # 测试展示
-![](./DeepCamerathesis/img/test1.png)
+<p align="center">
+  <img src="./DeepCamerathesis/img/test1.png" width="40%" height="40%">
+  <img src="./DeepCamerathesis/img/test2.png" width="40%" height="40%"> 
+</p>
+<img 
+<br>
+<br>
 
-![](./DeepCamerathesis/img/test2.png)
-
-![](./DeepCamerathesis/img/test3.png)
-
-![](./DeepCamerathesis/img/test4.png)
-
-![](./DeepCamerathesis/img/test5.png)
+<p align="center">
+  <img src="./DeepCamerathesis/img/test3.png" width="33%" height="33%">
+  <img src="./DeepCamerathesis/img/test4.png" width="33%" height="33%">
+  <img src="./DeepCamerathesis/img/test5.png" width="33%" height="33%">
+</p>
+<img 
+<br>
+<br>
